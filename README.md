@@ -1,3 +1,3 @@
-# Telefon-Numarasi-ndan-Konum
+# Telefon Numarasindan Konum
 
 telefon numarasından konum öğrenme
