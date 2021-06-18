@@ -1,1 +1,1 @@
-# Telefon-Numaras-ndan-Konum
+# Telefon-Numarasi-ndan-Konum
